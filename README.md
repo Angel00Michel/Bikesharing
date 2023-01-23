@@ -7,3 +7,4 @@ Tableau
 ... What is the average cost each trip taken? 
 ... Why do people care for the service I offer, how do I compare to my competitors? 
 
+# (SKILL DRILL 15.3.5) is the same as "Bike Repairs", just converted to show chronological order; with how many times each bike is used. # 

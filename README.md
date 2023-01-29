@@ -9,4 +9,8 @@ SKILL DRILL 15.2.4
 
 SKILL DRILL 15.3.5) is the same as "Bike Repairs", just converted to show chronological order; with how many times each bike is used. 
 
+1. Overview of the analysis: Explain the purpose of this analysis.
 
+2. Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+
+3. Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.

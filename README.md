@@ -26,10 +26,16 @@ The 'UNKNOWN' Gender usage, w/ description of which bikes are being used at thos
 
 ### (Page 2)Trips done by Users, Genders, for the month of August.
 ![Screen Shot 2023-01-31 at 5 38 11 PM](https://user-images.githubusercontent.com/106771574/215923813-3a9df1b1-3ded-4d29-b7eb-58247f37de45.png)
-This visualization represent the amount of trips made each Weekday by the Hour.
+This visualization represents the amount of trips made each Weekday by the Hour.
 
 ![Screen Shot 2023-01-31 at 5 34 43 PM](https://user-images.githubusercontent.com/106771574/215923437-e515c288-127b-4890-9da4-91b896fd26f9.png)
 This visualization shows the amount of trips made by each Gender accumulated by the Hour of each Weekday.
+
+![Screen Shot 2023-01-31 at 6 06 11 PM](https://user-images.githubusercontent.com/106771574/215927463-0d9da3e5-c4ec-40cb-bb56-f9b5e57a4d98.png)
+This visualization represents whether a 'Customer' or a 'Subscriber' had used a bike that Weekday by the Hour, specific to each Gender.
+
+![Screen Shot 2023-01-31 at 6 10 17 PM](https://user-images.githubusercontent.com/106771574/215928037-e4fe2181-bca8-4c95-92cf-1adbbec9301f.png)
+This visualization scales/represents whether a "Customer' or a 'Subscriber', specific to each Gender, uses the most bikes. (Also displays various the amount of bikes, specific to each category.)
 
 
 

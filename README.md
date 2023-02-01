@@ -37,6 +37,10 @@ This visualization represents whether a 'Customer' or a 'Subscriber' had used a 
 ![Screen Shot 2023-01-31 at 6 10 17 PM](https://user-images.githubusercontent.com/106771574/215928037-e4fe2181-bca8-4c95-92cf-1adbbec9301f.png)
 This visualization scales/represents whether a "Customer' or a 'Subscriber', specific to each Gender, uses the most bikes. (Also displays various the amount of bikes, specific to each category.)
 
-
+![Screen Shot 2023-01-31 at 6 25 30 PM](https://user-images.githubusercontent.com/106771574/215930636-f824b5ab-87ca-4d92-bd4c-816c1a143df7.png)
+![Screen Shot 2023-01-31 at 6 25 46 PM](https://user-images.githubusercontent.com/106771574/215930646-866feb77-d980-4324-882c-1fc96039040e.png)
+![Screen Shot 2023-01-31 at 6 26 40 PM](https://user-images.githubusercontent.com/106771574/215930650-bb72ec09-fb75-4d28-ba81-18e0428f6626.png)
+![Screen Shot 2023-01-31 at 6 27 48 PM](https://user-images.githubusercontent.com/106771574/215930661-223b70d3-72d9-42a4-918f-9095f116a52d.png)
+This Pie Chart best demonstrates the amount of bikes each gender using, with its respective values.
 
 3. Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.

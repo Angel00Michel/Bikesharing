@@ -1,5 +1,5 @@
 # Bikesharing
-Tableau
+### Tableau
 
 SKILL DRILL 15.2.4 
 ### What questions would you want answered if you were opening a bike-sharing business? Write the questions down.
@@ -45,6 +45,8 @@ This visualization scales/represents whether a "Customer' or a 'Subscriber', spe
 This Pie Chart best demonstrates the amount of bikes each gender using, with its respective values.
 
 ### 3. Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+  -- According to my Storyboard visualization that I was able to piece together, the analysis seems preety simple; taking the data from our "Bikesharing.csv" file then importing it into a high-level respresentation of why creating a Bikesharing business may even be a great startup concept for 2023. The analysis displays intricate visualizations explaining as to how and for why a Bikesharing business is a great idea, in a busy city of course. Our data shows how many people actively use bikesharing services to get around on their daily commmute, or even if they wanted to go tour the city and experience something that is everlasting. My Tableua analysis accurately displays how each "Gender" could impact our product, the amount of people using bikesharing services, as well as quantative representations of how often people (from all genders) could hypothetically interact with our services. I was able to display multiple depictions of how I see a bikesharing business thriving in today's economy. 
 
 Tabluea links:
 https://public.tableau.com/views/Bike-sharingNYCModuleChallenge/Module15ChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link

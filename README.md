@@ -1,6 +1,8 @@
 # Bikesharing
 ### Tableau
 
+### Angel Michel's Tableau.Public profile: https://public.tableau.com/views/Bike-sharingNYCModuleChallenge/Module15ChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 SKILL DRILL 15.2.4 
 ### What questions would you want answered if you were opening a bike-sharing business? Write the questions down.
 ... How many trips are taken each day, month, year?
